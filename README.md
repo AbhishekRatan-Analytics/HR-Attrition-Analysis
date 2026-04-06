@@ -1,6 +1,7 @@
 # HR Employee Attrition Analysis Dashboard
 
-<img width="1911" height="771" alt="image" src="https://github.com/user-attachments/assets/17382a6e-665e-4bb7-9a01-ed45191ac50e" />
+<img width="1917" height="778" alt="image" src="https://github.com/user-attachments/assets/9deb6778-64da-4544-ab48-7358e31ad1bf" />
+
 
 
 > **A business analyst portfolio project** — identifying the root causes of employee attrition and quantifying the cost to the organisation using the IBM HR Analytics dataset.
