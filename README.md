@@ -4,7 +4,7 @@
 
 
 
-> **A business analyst portfolio project** — identifying the root causes of employee attrition and quantifying the cost to the organisation using the IBM HR Analytics dataset.
+> **A business analyst portfolio project** — identifying the root causes of employee attrition and quantifying the cost to the organisation using the HR Analytics dataset.
 
 ---
 
